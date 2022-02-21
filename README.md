@@ -19,7 +19,7 @@ From the data analysis I ascertained that the number of A's and A-'s had a simil
 
 scatterplot
 
-![screenshot](file:///home/tom/Pictures/Screenshot%20from%202022-02-21%2023-56-11.png)
+![screenshot](https://github.com/tombrown3/datascience_assignment1/blob/main/Screenshot%20from%202022-02-21%2023-56-11.png)
 
 Heatmap
 
