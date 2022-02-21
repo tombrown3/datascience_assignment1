@@ -13,7 +13,7 @@ Using the "KCSE.csv" data provided
      
 In previewing the data provided I noticed that it was missing data of four years therefore I sourced out this data and obtained it from "2014 statistical education booklet". The missing data would have reduced the statistical power of the study and produce biased estimates leading to invalid conclusions.
 
-From the data analysis I ascertained that the number of A's and A-'s had a similar trend as observed from the scatter plot diagram and the Heatma
+From the data analysis I ascertained that the number of A's and A-'s had a similar trend as observed from the scatter plot diagram and the Heatmap
 
 ![screenshot](file:///home/tom/Pictures/pic.png)
 
